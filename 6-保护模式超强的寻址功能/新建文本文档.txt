@@ -1,0 +1,1 @@
+boot.bin由boot_read5M.asm生成

@@ -1,0 +1,1 @@
+boot.bin是boot_readstring_from_floppy.asm编译生成的

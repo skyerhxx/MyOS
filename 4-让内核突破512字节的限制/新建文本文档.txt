@@ -1,0 +1,3 @@
+boot.asm编译生成boot.bin
+kernel.asm编译生成kernel.bin
+
